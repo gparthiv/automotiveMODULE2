@@ -4,16 +4,3 @@ venv/
 ENV/
 __pycache__/
 *.py[cod]
-
-Add core functionality for A* path planning and vehicle simulation
-
-- Implement A* algorithm in a_star_planner.py for pathfinding.
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- Update .gitignore to include Python virtual environment and cache files.
-- .
